@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "lotushaven",       "destination": "https://web.actionera.com/lotushaven",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://entrepreneurfreedom.org/$1"
- }
+    }
   ]
 }
+    
